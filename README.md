@@ -23,7 +23,7 @@ References:<br>
 
 ## Detail Summary of each notebook.
 
-### First version: Fit data with ML models (Logistic Regression, Random Forest, XGBoost & Grid search)
+### version 1 : Fit data with ML models (Logistic Regression, Random Forest, XGBoost & Grid search)
 
 > Notebook : HCDR_01.ipynb
 
@@ -41,7 +41,7 @@ task:
 
 --------------------
 
-### Second version:  Use Under-sampling and Over-Sampling (SMOTE) to fix imbalanced data problem. 
+### version 2 :  Use Under-sampling and Over-Sampling (SMOTE) to fix imbalanced data problem. 
 
 > Notebook : HCDR_02.ipynb
 
@@ -53,7 +53,7 @@ task:
 
 --------------------
 
-### Third version:  Use Dimension reduction (PCA & t-SNE) to improve speed on training. 
+### version 3 :  Use Dimension reduction (PCA & t-SNE) to improve speed on training. 
 
 > Notebook :  Ongoing
 
