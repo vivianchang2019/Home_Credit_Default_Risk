@@ -8,7 +8,7 @@ References:<br>
 <br>
 [Credit Fraud || Dealing with Imbalanced Datasets](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets) <br>
 
-<br>
+
 ## Notebook explanation: 
 ## 1. HCDR_01.ipynb: 
 > Fit data with ML models (Logistic Regression, Random Forest, XGBoost & Grid search)
@@ -17,7 +17,6 @@ References:<br>
 ## 3. HCDR_03.ipynb (Ongoing) : 
 > Use Dimension reduction (PCA & t-SNE) to improve speed on training. 
 
-<br><br>
 
 --------------
 <br><br>
