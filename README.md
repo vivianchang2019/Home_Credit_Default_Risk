@@ -6,8 +6,10 @@ References:<br>
 [Data Sources](https://www.kaggle.com/c/home-credit-default-risk/data) <br>
 [Start Here: A Gentle Introduction](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
 <br>
+[Credit Fraud || Dealing with Imbalanced Datasets](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets) <br>
 
-#### First version: Fit data with ML models (Logistic Regression, Random Forest, XGBoost & Grid search)
+
+### First version: Fit data with ML models (Logistic Regression, Random Forest, XGBoost & Grid search)
 
 > Notebook : HCDR_01.ipynb
 
@@ -18,8 +20,14 @@ task:
 4. Fit different models and make prediction
 5. Predict the data for kaggle submission
 
+#### kaggle submission result 
 
-#### Second version:  Use Under-sampling and Over-Sampling (SMOTE) to fix imbalanced data problem. 
+![submission result](https://github.com/vivianchang2019/Home_Credit_Default_Risk/blob/master/result/HCDR.JPG?raw=true)
+
+
+--------------------
+
+### Second version:  Use Under-sampling and Over-Sampling (SMOTE) to fix imbalanced data problem. 
 
 > Notebook : HCDR_02.ipynb
 
@@ -29,7 +37,9 @@ task:
 3. Under-sampling
 4. Over-sampling (SMOTE Technique)
 
-#### Third version:  Use Dimension reduction (PCA & t-SNE) to improve speed on training. 
+--------------------
+
+### Third version:  Use Dimension reduction (PCA & t-SNE) to improve speed on training. 
 
 > Notebook :  Ongoing
 
