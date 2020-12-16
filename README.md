@@ -21,6 +21,9 @@ References:<br>
 
 --------------
 
+
+## Detail Summary of each notebook.
+
 ### First version: Fit data with ML models (Logistic Regression, Random Forest, XGBoost & Grid search)
 
 > Notebook : HCDR_01.ipynb
