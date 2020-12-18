@@ -11,11 +11,11 @@ References:<br>
 
 ## Notebook explanation: 
 ## 1. HCDR_01.ipynb: 
-> Fit data with ML models (Logistic Regression, Random Forest, XGBoost & Grid search)
+> Analyzing data by EDA, do Feature Engineering and fit data with ML models (Logistic Regression, Random Forest, XGBoost & Grid search)
 ## 2. HCDR_02.ipynb: 
 > Use Under-sampling and Over-Sampling (SMOTE) to fix imbalanced data problem. 
 ## 3. HCDR_03.ipynb (Ongoing) : 
-> Use Dimension reduction (PCA) to improve speed on training. 
+> Use Dimension reduction (PCA) to improve speed on training (Use pipeline). 
 
 
 --------------
