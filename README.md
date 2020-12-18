@@ -15,7 +15,7 @@ References:<br>
 ## 2. HCDR_02.ipynb: 
 > Use Under-sampling and Over-Sampling (SMOTE) to fix imbalanced data problem. 
 ## 3. HCDR_03.ipynb (Ongoing) : 
-> Use Dimension reduction (PCA & t-SNE) to improve speed on training. 
+> Use Dimension reduction (PCA) to improve speed on training. 
 
 
 --------------
@@ -53,12 +53,12 @@ task:
 
 --------------------
 
-### version 3 :  Use Dimension reduction (PCA & t-SNE) to improve speed on training. 
+### version 3 :  Use Dimension reduction (PCA) to improve speed on training. 
 
-> Notebook :  Ongoing
+> Notebook :  HCDR_03.ipynb
 
 task:
 1. Check dataset
 2. Data Processing
-3. Dimension reduction (PCA & t-SNE)
+3. Dimension reduction (PCA)
 4. Fit different models and make prediction
