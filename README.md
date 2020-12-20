@@ -14,7 +14,7 @@ References:<br>
 > Analyzing data by EDA, do Feature Engineering and fit data with ML models (Logistic Regression, Random Forest, XGBoost & Grid search)
 ## 2. HCDR_02.ipynb: 
 > Use Under-sampling and Over-Sampling (SMOTE) to fix imbalanced data problem. 
-## 3. HCDR_03.ipynb (Ongoing) : 
+## 3. HCDR_03.ipynb: 
 > Use Dimension reduction (PCA) to improve speed on training (Use pipeline). 
 
 
@@ -62,3 +62,4 @@ task:
 2. Data Processing
 3. Dimension reduction (PCA)
 4. Fit different models and make prediction
+5. Predict the data for kaggle submission
