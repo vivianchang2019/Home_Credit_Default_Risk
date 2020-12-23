@@ -2,6 +2,8 @@
 
 > Predict how capable each applicant is of repaying a loan.
 
+> The best scores till now is **0.73387**, using XGBoost without PCA. 
+
 References:<br>
 [Data Sources](https://www.kaggle.com/c/home-credit-default-risk/data) <br>
 [Start Here: A Gentle Introduction](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
@@ -63,3 +65,5 @@ task:
 3. Dimension reduction (PCA)
 4. Fit different models and make prediction
 5. Predict the data for kaggle submission
+
+![submission result](https://github.com/vivianchang2019/Home_Credit_Default_Risk/blob/master/result/HCDR_02.JPG?raw=true)
